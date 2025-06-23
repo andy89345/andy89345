@@ -1,11 +1,13 @@
 #Hi,I’m Rong  
 -Just a software engineer.  
--Developing web(full stack) with flask & Django about two years.  
+-Developing web(full stack) with flask & Django about five years.  
 -Use web crawlers to fetch data(selenium or requests) usually.  
 -I also like to develop various software tools with openCV.  
 -Major programming language:Python,C++,C#,HTML,javascript,CSS,Jquery.  
 -Used web framework:Flask,Django,ASP.NET.    
--Interested in being a hacker.  
+-Interested in being a hacker and AI engineer.  
+-Studying for a master's degree in the Department of Electrical Engineering at NTUT.
+-My research is about VLM.
 
 
 
