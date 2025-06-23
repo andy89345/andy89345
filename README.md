@@ -1,4 +1,4 @@
-#Hi,I’m Gnor  
+#Hi,I’m Rong  
 -Just a software engineer.  
 -Developing web(full stack) with flask & Django about two years.  
 -Use web crawlers to fetch data(selenium or requests) usually.  
