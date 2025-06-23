@@ -6,8 +6,7 @@
 -Major programming language:Python,C++,C#,HTML,javascript,CSS,Jquery.  
 -Used web framework:Flask,Django,ASP.NET.    
 -Interested in being a hacker and AI engineer.  
--Studying for a master's degree in the Department of Electrical Engineering at NTUT, 
--And my research is about VLM.
+-Studying for a master's degree in the Department of Electrical Engineering at NTUT, and my research is about VLM.
 
 
 
